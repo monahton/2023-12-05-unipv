@@ -18,7 +18,7 @@
 # When setting this field to "incubator", please uncomment the
 # incubator_lesson_site, incubator_pre_survey, and incubator_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
-carpentry: "swc"
+carpentry: "dc"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
@@ -33,7 +33,7 @@ carpentry: "swc"
 # dc-image:         for Data Carpentry Image Processing
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder:    for Software Carpentry based on the Gapminder dataset
-curriculum: "FIXME"
+curriculum: "dc-genomics"
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
@@ -53,7 +53,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Data Carpentry Genomics"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
